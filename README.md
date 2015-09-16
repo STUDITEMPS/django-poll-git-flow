@@ -6,6 +6,8 @@ The solution to https://docs.djangoproject.com/en/dev/intro/tutorial01/
 Getting Started
 ---------------
 
+# We have changed something in this feature: 5432
+
 ### Initial Setup ###
 1. Make a new virtualenv: ``virtualenv env``
 2. Activate the virtualenv: ``source env/bin/activate``
