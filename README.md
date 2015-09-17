@@ -13,6 +13,8 @@ Getting Started
 # oh yes this is release now
 * bumping version number to files
 
+# new feature again
+
 ### Initial Setup ###
 1. Make a new virtualenv: ``virtualenv env``
 2. Activate the virtualenv: ``source env/bin/activate``
