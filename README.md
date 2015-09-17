@@ -7,6 +7,11 @@ Getting Started
 ---------------
 
 # We have changed something in this feature: 5432
+# this is fancy feature 543
+## this is update for feature 543
+
+# oh yes this is release now
+* bumping version number to files
 
 ### Initial Setup ###
 1. Make a new virtualenv: ``virtualenv env``
