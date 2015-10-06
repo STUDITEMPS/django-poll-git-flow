@@ -1,1 +1,7 @@
 django
+# Behave Test-Framework
+behave
+django_behave
+model_mommy
+coverage
+splinter

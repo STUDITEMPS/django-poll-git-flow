@@ -11,6 +11,8 @@ ENV LANG="de_DE.UTF-8"
 RUN apt-get install -yq python-pip \
                         python-dev
 
+RUN apt-get install -yq phantomjs
+
 ADD requirements.txt requirements.txt
 ADD . /app
 
