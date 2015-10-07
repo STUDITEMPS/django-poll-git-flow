@@ -14,12 +14,13 @@ RUN apt-get install -yq python-pip \
 RUN apt-get install -yq phantomjs
 
 ADD requirements.txt requirements.txt
-ADD . /app
 
 # RUN pip install --trusted-host docker2.intranet.studitemps.de -r /kiss/requirements.txt 
 RUN pip install -r requirements.txt 
 
 EXPOSE 8888
+
+ADD . /app
 
 WORKDIR /app
 
