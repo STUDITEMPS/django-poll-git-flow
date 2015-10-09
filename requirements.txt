@@ -5,3 +5,4 @@ django_behave
 model_mommy
 coverage
 splinter
+six>=1.9
